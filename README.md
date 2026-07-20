@@ -4,12 +4,12 @@ Interactive Supply Chain Analytics Dashboard built using SQL, SQLite, PowerBI An
 
 ### Executive Dashboard
 
-![Executive Dashboard](Images/ExecutiveDashboard.png)
+![Executive Dashboard](images/Executive%20Dashboard.png)
 
 ### Sales & Customer Analytics
 
-![Sales Dashboard](Images/Sales.png)
+![Sales Dashboard](images/Sales.png)
 
 ### Logistics & Operations Dashboard
 
-![Logistics Dashboard](Images/Logistics.png)
+![Logistics Dashboard](images/Logistics.png)
