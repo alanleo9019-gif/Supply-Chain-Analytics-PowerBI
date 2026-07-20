@@ -13,3 +13,21 @@ Interactive Supply Chain Analytics Dashboard built using SQL, SQLite, PowerBI An
 ### Logistics & Operations Dashboard
 
 ![Logistics Dashboard](images/Logistics.png)
+## Skills
+
+- SQL
+- SQLite
+- Power BI
+- DAX
+- Data Visualization
+- Business Intelligence
+- Supply Chain Analytics
+## Features
+
+- Interactive dashboard navigation
+- KPI cards
+- Drill-down analysis
+- Sales insights
+- Customer analytics
+- Logistics performance monitoring
+- Dynamic slicers
